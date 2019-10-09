@@ -21,7 +21,7 @@ end
 
 def read_from_hash(hash, key)
     read_from_hash = {
-      :name => "Steve"
+      :name => "Steve",
       'name' => "Tzvi"
     }
     return read_from_hash[:name]
