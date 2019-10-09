@@ -20,7 +20,7 @@ end
 
 
 def read_from_hash(hash, key)
-    read_from_hash = {
+    hash = {
       :name => "Steve",
       'name' => "Tzvi"
     }
