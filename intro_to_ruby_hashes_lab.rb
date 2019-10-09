@@ -19,7 +19,7 @@ end
 
 def id_generator
 def read_from_hash(key, value)
-    read_from_hash = {:name => "Steve", 'n}
+    read_from_hash = {:name => "Steve"}
     return read_from_hash['name']
     return read_from_hash[:name]
   # return the correct value using the hash and key parameters
