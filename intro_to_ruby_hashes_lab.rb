@@ -8,7 +8,9 @@ end
 
 def pioneer
   pioneer = {name: "Grace Hopper"}
-en
+end
+
+def id_generator
   id_generator = {id: 9}
 end
 
