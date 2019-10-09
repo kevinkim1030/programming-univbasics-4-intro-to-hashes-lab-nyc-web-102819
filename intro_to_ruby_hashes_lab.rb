@@ -24,7 +24,8 @@ def read_from_hash(hash, key)
       :name => "Steve",
       'name' => "Tzvi"
     }
-    return read_from_hash(hash, key)[:name]
+    return read_from_hash[:name]
+
   # return the correct value using the hash and key parameters
 end
 
