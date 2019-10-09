@@ -17,7 +17,6 @@ def my_hash_creator(key, value)
 end
 
 
-def id_generator
 def read_from_hash(key, value)
     read_from_hash = {:name => "Steve"}
     return read_from_hash['name']
