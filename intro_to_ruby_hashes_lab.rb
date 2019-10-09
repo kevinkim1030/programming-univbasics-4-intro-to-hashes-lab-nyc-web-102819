@@ -23,7 +23,6 @@ def read_from_hash(hash, key)
     read_from_hash = {
       :name => "Steve",
       'name' => "Tzvi"
-      :age => 31
     }
     return read_from_hash[key]
 
