@@ -8,7 +8,7 @@ end
 
 def pioneer
   pioneer = {name: "Grace Hopper"}
-end
+en
 
 def id_generator
   id_generator = {id: 9}
@@ -19,7 +19,7 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(key, value)
-    read_from_hash = {:name => "Steve", 'name' => "Tzvi"}
+    read_from_hash = {:name => "Steve", 'n}
     return read_from_hash['name']
     return read_from_hash[:name]
   # return the correct value using the hash and key parameters
